@@ -38,13 +38,6 @@ creating actionable recommendations for improving fitness, health, and workout p
 ## Dashboard
 ![Screenshot (246)](https://github.com/user-attachments/assets/71b27ec7-5a42-40db-8e61-de3446c7ac06)
 
-## Steps Taken:
-- Performed extraction, loading and transforming(ETL) process of the dataset.
-- On transforming with Powerbi query, I corrected some inconsistencies and errors in the dataset which can affect my visualization. I removed some empty columns. Some numerical column appeared as text column, I changed 
-  the data type to numerical. 
-- Still on transformation, I utilized the powerbi DAX to create extra columns from existing column. For instance, Age_group column was created from age column, experience_class column was created from experience_level 
-  column etc.
-- After transformation, the data was loaded into powerbi for and was used to create an interactive and insightful dashboard 
 
 ## Project insight:
 
@@ -113,6 +106,9 @@ The dashboard revealed key patterns and relationships that can help the gym opti
 - Introduce low-impact yoga sessions for the elderly.
 - Support Beginners:
 - Provide beginner-friendly classes and resources to help the 38% of beginners progress to intermediate levels.
+
+## Thank You.
+For more information or collaboration you can contact me on Linkedin or via e-mail.
 
 
 
