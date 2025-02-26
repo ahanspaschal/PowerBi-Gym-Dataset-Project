@@ -24,3 +24,5 @@ creating actionable recommendations for improving fitness, health, and workout p
 - Members distribution based on their experience level
 - Work out type preference by age group
 - Total frequency of each workout type for the given period of time
+
+- Dashoard Interaction <a href="https://
