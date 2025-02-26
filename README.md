@@ -25,4 +25,4 @@ creating actionable recommendations for improving fitness, health, and workout p
 - Work out type preference by age group
 - Total frequency of each workout type for the given period of time
 
-- Dashoard Interaction <a href="https://
+- Dashoard Interaction <a href="https://1drv.ms/u/c/2ffbe0b0e58b637b/Ecf-vH81wdVEif4GWzq8J-IBHIq4tSYVN5ddqvOsw3lqiQ?e=BgPkOR">View Dasboard</a>
