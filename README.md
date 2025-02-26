@@ -28,9 +28,13 @@ creating actionable recommendations for improving fitness, health, and workout p
 - Dashoard Interaction <a href="https://1drv.ms/u/c/2ffbe0b0e58b637b/Ecf-vH81wdVEif4GWzq8J-IBHIq4tSYVN5ddqvOsw3lqiQ?e=BgPkOR">View Dasboard</a>
 
 ## Steps Taken
-- Performed extraction, loading and transforming(ETL) process of the dataset.
-- On transforming with Powerbi query, I corrected some inconsistencies and errors in the dataset which can affect my visualization. I removed some empty columns. Some numerical column appeared as text column, I changed 
-  the data type to numerical. 
-- Still on transformation, I utilized the powerbi DAX to create extra columns from existing column. For instance, Age_group column was created from age column, experience_class column was created from experience_level 
-  column etc.
-- After transformation, the data was loaded into powerbi for and was used to create an interactive and insightful dashboard 
+- Performed extraction, loading and transforming(ETL) process on the dataset.
+- On transforming with Powerbi powerquery, I corrected some inconsistencies and errors in the dataset which can affect my visualization. I removed filtered empty rows. Some numerical column appeared as text column, I 
+  changed the data type to numerical and some to float accordingly. 
+- Still on transformation, I utilized the powerbi DAX to create extra columns from existing columns. For instance, the Age_group column was created from the age column, experience_class column was created from 
+  already existing experience_level column etc.
+- After transformation, the data was loaded into powerbi and was used to create an interactive and insightful dashboard
+
+## Dashboard
+![Screenshot (246)](https://github.com/user-attachments/assets/71b27ec7-5a42-40db-8e61-de3446c7ac06)
+
