@@ -1,4 +1,6 @@
 # PowerBi-Gym-Dataset-Project
+![gym pix](https://github.com/user-attachments/assets/596306b1-a48b-402b-a08a-c7282dffdb25)
+
 ## Project Objective:
 
 This project is aimed at generating insights on gym members' workout habits and performance metrics, with the goal of
